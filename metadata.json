@@ -1,0 +1,6 @@
+{
+  "name": "CryoShield Tactical GLOF Command",
+  "description": "Glacial Flood Risk Command Center - AI-powered monitoring and early warning for Himalayan glacial lakes using Sentinel-2 and Copernicus DEM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
